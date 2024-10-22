@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Same and Build Cool Inovative Project**
 
-- 💬 Ask me about **Python,SQL,Gen-AI,Tableau,Machine Learning,Neural Networks**
+- 💬 Ask me about **Data,Python,SQL,Gen-AI,Machine Learning,Neural Networks**
 
 - 📄 Ex-Data Science Intern **TnQ Tech**
 
