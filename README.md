@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishit Rastogi</h1>
 <h3 align="center">A B-Tech AI student and Data Science enthusiast from IIIT Chennai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthrastogicoder&label=Profile%20views&color=0e75b6&style=flat" alt="parthrastogicoder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-rishit27&label=Profile%20views&color=0e75b6&style=flat" alt="r-rishit27" /> </p>
 
 - 🔭 I’m currently working on **Generative-AI & Complex Real-Life Data Problems**
 
