@@ -13,15 +13,6 @@
 
 - 📄 Ex-Data Science Intern **TnQ Tech**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rishit-rastogi-1aa545208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-rastogi-151444258" height="30" width="40" /></a>
-
-<h3 align="left">Resume:</h3>
-[Link](https://drive.google.com/file/d/1vMlMvrwO1p0DTErNIRO0m32VRRyLfIj0/view)
-
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -36,6 +27,16 @@
 <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo.png" alt="Neo4J" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.pelvrRMqLRe2X4Kxw0de0QHaJh?rs=1&pid=ImgDetMain" alt="Flask" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Resume:</h3>
+https://drive.google.com/file/d/1vMlMvrwO1p0DTErNIRO0m32VRRyLfIj0/view
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rishit-rastogi-1aa545208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-rastogi-151444258" height="30" width="40" /></a>
+
+
 </p>
 
 
