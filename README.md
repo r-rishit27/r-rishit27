@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishit Rastogi</h1>
-<h3 align="center">A B-Tech student from IIIT Chennai and Data Science enthusiast</h3>
+<h3 align="center">B-Tech student from IIIT Chennai and Data Science enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-rishit27&label=Profile%20views&color=0e75b6&style=flat" alt="r-rishit27" /> </p>
 
@@ -33,6 +33,9 @@
 
 <h3 align="left">Resume:</h3>
 https://drive.google.com/file/d/1vMlMvrwO1p0DTErNIRO0m32VRRyLfIj0/view
+
+<h3 align="left">Email-ID:</h3>
+r.rishit27@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
