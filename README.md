@@ -41,6 +41,8 @@ r.rishit27@gmail.com
 <p align="left">
 <a href="https://www.linkedin.com/in/rishit-rastogi-1aa545208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-rastogi-151444258" height="30" width="40" /></a>
 
+<h3 align="left">Email-ID:</h3>
+r.rishit27@gmail.com
 
 </p>
 
