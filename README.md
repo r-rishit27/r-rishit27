@@ -25,6 +25,8 @@
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.nf42xTJLjDEYl0WoNB9htwHaHa?rs=1&pid=ImgDetMain" alt="HuggingFace" width="40" height="40"/> </a> 
 <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/02/OpenAI-Logo-Vector.jpg" alt="OpenAI" width="40" height="40"/> </a> 
 <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo.png" alt="Neo4J" width="40" height="40"/> </a> 
+<a href="https://playground.powerbi.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.x1lAHqduhCnebdiolUgtygHaEK?rs=1&pid=ImgDetMain" alt="PowerBI" width="40" height="40"/> </a> 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.w-qTcyA4TSToAE1FZlj5nwHaEK?rs=1&pid=ImgDetMain" alt="Tableau" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.pelvrRMqLRe2X4Kxw0de0QHaJh?rs=1&pid=ImgDetMain" alt="Flask" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 </p>
