@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-rishit27&label=Profile%20views&color=0e75b6&style=flat" alt="r-rishit27" /> </p>
 
-- 🔭 I’m currently working on **Agentic & Gen AI  addressing Complex Real-Life Data Problems**
+- 🔭 I’m currently working on **Agentic & Gen AI  addressing Complex Real-Life Problems**
 
 - 🌱 I’m currently Exploring **AI Agents,Tranformers & LLM**
 
