@@ -32,7 +32,7 @@
 </p>
 
 <h3 align="left">Resume:</h3>
-https://drive.google.com/file/d/1vMlMvrwO1p0DTErNIRO0m32VRRyLfIj0/view
+https://drive.google.com/file/d/1mwigOYTQGjAsxZ8kfIm9LlTd3a2DeukC/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
